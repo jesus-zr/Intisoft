@@ -1,0 +1,28 @@
+# 🧩 General
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+logs/
+*.tmp
+
+# 🧠 IDEs y sistema
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# 🧱 Backend (cuando lo crees)
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# 🚀 Frontend build (solo si copias artefactos al root)
+frontend/dist/
+frontend/node_modules/
+
+# 🔐 Otros
+*.pem
+*.key
