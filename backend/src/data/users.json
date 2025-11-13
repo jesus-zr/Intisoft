@@ -1,0 +1,16 @@
+{
+  "dev_admin": {
+    "name": "Administrador Dev",
+    "email": "admin@intiscorp.local",
+    "user": "admin",
+    "password": "$2a$10$Y0bYVqkQ8mF0GZy6cOqUbeYqv7GxQmZcKf1zQq6tq9bHcQh1Z8F9S",
+    "rol": "admin"
+  },
+  "dev_tecnico": {
+    "name": "Técnico Dev",
+    "email": "tecnico@intiscorp.local",
+    "user": "tecnico",
+    "password": "$2a$10$eR6qZl1f2pYQf1KJYq9O1u8g3rJwQz2bN1p6cR8sVxF0bGmH2kL9e",
+    "rol": "tecnico"
+  }
+}
