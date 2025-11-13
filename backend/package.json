@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "type": "commonjs",
   "dependencies": {
     "express": "^4.18.2",
@@ -20,6 +21,9 @@
     "dotenv": "^16.3.1"
   },
   "devDependencies": {}
+=======
+  "type": "commonjs"
+>>>>>>> parent of d694aa5 (Revert "Backend 01")
 =======
   "type": "commonjs"
 >>>>>>> parent of d694aa5 (Revert "Backend 01")
